@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.App li {
+  margin: 10px 0;
+}
+
+.App span {
+  margin: 0 10px;
+}
+
+.App button {
+  margin: 0 5px;
+  border-radius: 50px;
+  box-shadow: none;
+}
